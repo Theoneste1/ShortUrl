@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://Theoneste1:Theoneste1@cluster0.59usj.mongodb.net/?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:3000"
+  "baseUrl" : "https://shurl.herokuapp.com"
 }
