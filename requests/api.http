@@ -1,6 +1,6 @@
-POST http://localhost:3000/api/url/shorten
+POST https://shorturldba.herokuapp.com/api/url/shorten
 Content-Type: application/json
 
 {
-  "longUrl": "https://www.alueducation.com"
+  "longUrl":"https://inyarwanda.com"
 }
