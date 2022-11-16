@@ -1,6 +1,6 @@
-POST https://shorturldba.herokuapp.com/api/url/shorten
+POST https://shurl.herokuapp.com/api/url/shorten
 Content-Type: application/json
 
 {
-  "longUrl":"https://inyarwanda.com"
+  "longUrl":"https://www"
 }
